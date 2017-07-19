@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\bin\Debug\PA01_Ev_Sw.exe.config
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\bin\Debug\PA01_Ev_Sw.exe
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\bin\Debug\PA01_Ev_Sw.pdb
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\bin\Debug\PA01_Ev_Sw.xml
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\obj\Debug\PA01_Ev_Sw.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\obj\Debug\PA01_Ev_Sw.exe
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\obj\Debug\PA01_Ev_Sw.xml
+C:\Users\PC\Desktop\Evolucion del Software\PA01_Ev_Sw\PA01_Ev_Sw\obj\Debug\PA01_Ev_Sw.pdb
